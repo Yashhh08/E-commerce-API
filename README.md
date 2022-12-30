@@ -12,8 +12,8 @@ This project is deployed on AWS.
 
 ## Entity Relationship Diagram
 
+![Screenshot (53)](https://user-images.githubusercontent.com/101392090/210071014-9a9213a2-fc9f-43ca-9027-67e21a631235.png)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tech Stack
 
