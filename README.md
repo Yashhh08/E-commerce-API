@@ -133,3 +133,5 @@ Get all categories
     "password":"kunal"
 }
 ```
+
+<h1 align="center">Thank You for your time</h1>
