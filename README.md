@@ -17,6 +17,7 @@ This project is deployed on AWS.
 
 <div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351"><div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=2F35A141C80C27E83741FB57B6789FAC1BF" target="_blank"><img src="https://ibb.co/wdfTvzB"></a></div></div>
 
+![alt text](https://ibb.co/wdfTvzB)
 
 ## Tech Stack
 
