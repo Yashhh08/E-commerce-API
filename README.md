@@ -13,7 +13,7 @@ This project is deployed on AWS.
 ## Entity Relationship Diagram
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://drive.google.com/file/d/1q8EOUpvjFS2I4lEq95-pHDc24OOnk2vo/view?usp=sharing)
 
 
 ## Tech Stack
