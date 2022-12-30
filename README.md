@@ -134,4 +134,4 @@ Get all categories
 }
 ```
 
-<h1 align="center">Thank You for your time</h1>
+<h1 align="center">Thank you for your time and if you have any questions or suggestions please reach out to me on my email.</h1>
