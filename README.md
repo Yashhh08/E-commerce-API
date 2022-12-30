@@ -15,6 +15,8 @@ This project is deployed on AWS.
 
 ![Logo](https://drive.google.com/file/d/1q8EOUpvjFS2I4lEq95-pHDc24OOnk2vo/view?usp=sharing)
 
+<div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351"><div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=2F35A141C80C27E83741FB57B6789FAC1BF" target="_blank"><img src="https://drive.google.com/file/d/1q8EOUpvjFS2I4lEq95-pHDc24OOnk2vo/view?usp=sharing"></a></div></div>
+
 
 ## Tech Stack
 
