@@ -13,11 +13,7 @@ This project is deployed on AWS.
 ## Entity Relationship Diagram
 
 
-![Logo](https://www.kapwing.com/videos/63aed96a8bd48a0011ae7157)
-
-<div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351"><div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=2F35A141C80C27E83741FB57B6789FAC1BF" target="_blank"><img src="https://ibb.co/wdfTvzB"></a></div></div>
-
-(https://www.kapwing.com/videos/63aed96a8bd48a0011ae7157)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Tech Stack
 
