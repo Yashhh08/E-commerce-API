@@ -23,6 +23,7 @@ This project is deployed on AWS.
 * Spring 
 * Spring Boot
 * Spring Data JPA
+* Spring Boot Starter Mail
 * Spring Security - JWT
 * Lombok
 * MySQL
@@ -35,6 +36,7 @@ This project is deployed on AWS.
 * Auth Module
 * User Module
 * Admin Module
+
 ## Features
 
 * User and Admin authentication & authorization with JWT token using Spring security.
@@ -50,6 +52,7 @@ This project is deployed on AWS.
     * User can see all the categories and products available.
     * User can add products to cart as well as he can update or delete the order details.
     * User can place the order.
+    * After placing the order user will receive Email.
 
 
 
