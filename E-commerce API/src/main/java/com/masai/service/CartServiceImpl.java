@@ -105,9 +105,9 @@ public class CartServiceImpl implements CartService{
 
 ////        SMS SERVICE
 //
-//        final String ACCOUNT_SID = "ACb5e9f023f81cc2bcf7842577101fc7b9";
-//        final String AUTH_TOKEN = "9b6ab608d8205104b7b741766ea3f584";
-//        final String SendNumber = "+17203304650";
+//        final String ACCOUNT_SID = "";
+//        final String AUTH_TOKEN = "";
+//        final String SendNumber = "";
 //
 //        Message message = Message.creator(
 //
